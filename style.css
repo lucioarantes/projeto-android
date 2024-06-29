@@ -5,12 +5,12 @@
     src: url(fontes/idroid.otf) format('opentype');
 }
 :root {
-    --cor0: #c5ffd9;
-    --cor1: #62ff96;
-    --cor2: #25e664;
-    --cor3: #1FBF54;
-    --cor4: #148038;
-    --cor5: #0A401C;
+    --cor0: #fff48f;
+    --cor1: #fde50d;
+    --cor2: #faae00;
+    --cor3: #e3b80b;
+    --cor4: #e38d0b;
+    --cor5: #fd7b0d;
 }
 a.externo::after {
     content: '\1F517';
